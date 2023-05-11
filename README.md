@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olygen
-- 👀 I’m interested in QA testing
-- 🌱 I’m currently learning Automation
-- 💞️ I’m looking to collaborate on Selenium
+- 👀 I’m interested in Sofware Engineering. I graduated Applied Math but worked in Advertising agencies as econometric modelist
+- 🌱 I’m currently learning Node, React, MERN in Per Scholas
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me (https://www.linkedin.com/in/olga-sarukhanova/)
 
 <!---
